@@ -1,0 +1,12 @@
+SAP System Report — 2026-04-27 19:45
+================================================
+SID    Type           DB     OS       Status
+================================================
+PRD    Production     ASE    Linux    OK
+QAS    Quality        ASE    Linux    !! CHECK NEEDED
+DEV    Development    HANA   Linux    -- MAINTENANCE
+DFD    Fiori Dev      ASE    AIX      !! CHECK NEEDED
+PFP    Fiori PRD      ASE    Linux    -- STARTING
+================================================
+Total systems: 5
+Systems needing attention: 2

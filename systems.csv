@@ -1,0 +1,6 @@
+sid,type,status,db,os
+PRD,Production,running,ASE,Linux
+QAS,Quality,stopped,ASE,Linux
+DEV,Development,maintenance,HANA,Linux
+DFD,Fiori Dev,stopped,ASE,AIX
+PFP,Fiori PRD,starting,ASE,Linux
